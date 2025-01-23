@@ -1,0 +1,86 @@
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\FINANCEIRO BAIXA INFO.exe
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\FINANCEIRO BAIXA INFO.deps.json
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\FINANCEIRO BAIXA INFO.runtimeconfig.json
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\FINANCEIRO BAIXA INFO.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\FINANCEIRO BAIXA INFO.pdb
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\EPPlus.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.Office.Interop.Excel.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\OfficeOpenXml.Core.ExcelPackage.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\WebDriver.Support.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\WebDriver.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\FINANCEIRO BAIXA INFO\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.csproj.AssemblyReference.cache
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.AssemblyInfoInputs.cache
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.AssemblyInfo.cs
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.csproj.CoreCompileInputs.cache
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.sourcelink.json
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\FINANCEI.3D04E3DE.Up2Date
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.dll
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\refint\FINANCEIRO BAIXA INFO.dll
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.pdb
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.genruntimeconfig.cache
+C:\dev\FINANCEIRO BAIXA INFO\obj\Debug\net8.0\ref\FINANCEIRO BAIXA INFO.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\dev\juridico_ccb\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\dev\juridico_ccb\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\dev\juridico_ccb\bin\Debug\net8.0\FINANCEIRO BAIXA INFO.exe
+C:\dev\juridico_ccb\bin\Debug\net8.0\FINANCEIRO BAIXA INFO.deps.json
+C:\dev\juridico_ccb\bin\Debug\net8.0\FINANCEIRO BAIXA INFO.runtimeconfig.json
+C:\dev\juridico_ccb\bin\Debug\net8.0\FINANCEIRO BAIXA INFO.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\FINANCEIRO BAIXA INFO.pdb
+C:\dev\juridico_ccb\bin\Debug\net8.0\EPPlus.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.Office.Interop.Excel.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\OfficeOpenXml.Core.ExcelPackage.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\WebDriver.Support.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\WebDriver.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\System.Windows.Forms.DataVisualization.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\juridico_ccb\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.csproj.AssemblyReference.cache
+C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.AssemblyInfoInputs.cache
+C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.AssemblyInfo.cs
+C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.csproj.CoreCompileInputs.cache
+C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEI.3D04E3DE.Up2Date
+C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.dll
+C:\dev\juridico_ccb\obj\Debug\net8.0\refint\FINANCEIRO BAIXA INFO.dll
+C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.pdb
+C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.genruntimeconfig.cache
+C:\dev\juridico_ccb\obj\Debug\net8.0\ref\FINANCEIRO BAIXA INFO.dll
