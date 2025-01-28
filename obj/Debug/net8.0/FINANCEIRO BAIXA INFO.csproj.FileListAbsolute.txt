@@ -84,3 +84,4 @@ C:\dev\juridico_ccb\obj\Debug\net8.0\refint\FINANCEIRO BAIXA INFO.dll
 C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.pdb
 C:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.genruntimeconfig.cache
 C:\dev\juridico_ccb\obj\Debug\net8.0\ref\FINANCEIRO BAIXA INFO.dll
+c:\dev\juridico_ccb\obj\Debug\net8.0\FINANCEIRO BAIXA INFO.sourcelink.json

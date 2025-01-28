@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lMWr1jmuaXs=",
+  "dgSpecHash": "9E1U45ZMTrU=",
   "success": true,
-  "projectFilePath": "C:\\dev\\juridico_ccb\\FINANCEIRO BAIXA INFO.csproj",
+  "projectFilePath": "c:\\dev\\juridico_ccb\\FINANCEIRO BAIXA INFO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MiltonJoseFerraroJun\\.nuget\\packages\\epplus\\7.5.2\\epplus.7.5.2.nupkg.sha512",
     "C:\\Users\\MiltonJoseFerraroJun\\.nuget\\packages\\epplus.interfaces\\7.5.0\\epplus.interfaces.7.5.0.nupkg.sha512",

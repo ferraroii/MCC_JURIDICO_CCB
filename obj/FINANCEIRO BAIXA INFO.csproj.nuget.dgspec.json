@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\juridico_ccb\\FINANCEIRO BAIXA INFO.csproj": {}
+    "c:\\dev\\juridico_ccb\\FINANCEIRO BAIXA INFO.csproj": {}
   },
   "projects": {
-    "C:\\dev\\juridico_ccb\\FINANCEIRO BAIXA INFO.csproj": {
+    "c:\\dev\\juridico_ccb\\FINANCEIRO BAIXA INFO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\juridico_ccb\\FINANCEIRO BAIXA INFO.csproj",
+        "projectUniqueName": "c:\\dev\\juridico_ccb\\FINANCEIRO BAIXA INFO.csproj",
         "projectName": "FINANCEIRO BAIXA INFO",
-        "projectPath": "C:\\dev\\juridico_ccb\\FINANCEIRO BAIXA INFO.csproj",
+        "projectPath": "c:\\dev\\juridico_ccb\\FINANCEIRO BAIXA INFO.csproj",
         "packagesPath": "C:\\Users\\MiltonJoseFerraroJun\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\juridico_ccb\\obj\\",
+        "outputPath": "c:\\dev\\juridico_ccb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MiltonJoseFerraroJun\\AppData\\Roaming\\NuGet\\NuGet.Config"
