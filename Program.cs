@@ -46,8 +46,9 @@ static void inicio(IWebDriver driver){
 
             for (int i = 2; i < ultimaLinha; i++ ){
                 contrato = sheet.Cells[i,1].Text;
-                
-                if (contrato != ""){
+                string status = sheet.Cells[i,5].Text;
+
+                if (contrato != "" && status != "Finalizado" ){
                     DateTime ini = DateTime.Now;
                     Console.WriteLine($"---CONTRATO - {contrato} - iniciado em: {ini:HH:mm:ss}---");
                     
